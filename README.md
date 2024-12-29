@@ -46,6 +46,7 @@ This repository curates a collection of research works specifically focused on l
 * OmniVid: A Generative Framework for Universal Video Understanding, CVPR 2024.
 
 ## Long-Term Video Large Language Models
+* [Towards Long Video Understanding via Fine-detailed Video Story Generation, TCSVT 2024](https://arxiv.org/pdf/2412.06182v2)
 * [**VideoINSTA**: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs](https://www.arxiv.org/abs/2409.20365), EMNLP 2024[![EMNLP](https://img.shields.io/badge/EMNLP-2024-blue.svg?style=plastic)](https://www.arxiv.org/abs/2409.20365)
 * Language Repository for Long Video Understanding, 2024.
 * VTimeLLM: Empower LLM to Grasp Video Moments, CVPR 2024.
